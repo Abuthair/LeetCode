@@ -5,7 +5,7 @@ package Coding;
  * 10:19 pm
  * @project LeetCode
  */
-public class TwoSum {
+public class TwoSumProblemNo1 {
     //Hell0
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
