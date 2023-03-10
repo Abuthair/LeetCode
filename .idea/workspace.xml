@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8c0d325-8f7d-4dba-a9bf-39526dc447ab" name="Changes" comment="Day2">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding/RicheshestCustomerProblemNo1672.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding/RunningSumInArrayProblemNo1480.java" afterDir="false" />
+    <list default="true" id="c8c0d325-8f7d-4dba-a9bf-39526dc447ab" name="Changes" comment="Day3">
+      <change afterPath="$PROJECT_DIR$/src/Coding/Number_of_Steps_to_Reduce_a_Number_to_Zero_problemNo1342.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding/TwoSumProblemNo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="FizzBuzz_ProblemNo412" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coding.FizzBuzz_ProblemNo412" />
@@ -103,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678336719542</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day3">
+      <created>1678349784411</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678349784411</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Day3">
+      <created>1678349834613</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678349834613</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day1" />
     <MESSAGE value="Day2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day2" />
+    <MESSAGE value="Day3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day3" />
   </component>
 </project>
